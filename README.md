@@ -1,4 +1,4 @@
-# dice
+# dice https://wakatime.com/badge/github/kelvinbush/dice-roll.svg
 
 A Practice Flutter application.
 
